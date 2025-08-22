@@ -17,10 +17,6 @@
 
 - Message popups showing winner or tie
 
-- Screenshots
-
-(You can add your own screenshots here after running the game)
-
 ## Installation & Usage
 
 - Clone the repository:
