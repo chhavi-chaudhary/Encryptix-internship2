@@ -20,7 +20,7 @@
 ## Installation & Usage
 
 - Clone the repository:
-git clone https://github.com/your-username/tic-tac-toe-python.git
+git clone https://github.com/chhavi-chaudhary/Encryptix-internship2/.git
 
 - Navigate into the project folder:
 cd tic-tac-toe-python
