@@ -39,9 +39,11 @@ cd tic-tac-toe-python
 - Tkinter (comes pre-installed with Python on most systems)
 
 ## Project Structure
+```
 tic-tac-toe-python/
 │── tic_tac_toe.py   # Main game file
 │── README.md        # Project documentation
+ ```
 
 ## Future Enhancements
 
